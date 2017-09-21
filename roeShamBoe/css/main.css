@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.choice {
+    max-height: 300px;
+}
+
+.loss {
+    color: red;
+}
+
+.win {
+    color: green;
+}
+
+.draw {
+    color: blue;
+}

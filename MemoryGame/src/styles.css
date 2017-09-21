@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+}
+.hidden {
+    color: white;
+}
+.pointer {
+    cursor: pointer;
+}
+.container {
+    background-color: lightgray;
+}
+.container .row {
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.row .col.s3 {
+    margin-left: 5px;
+    width: 245px;
+}
